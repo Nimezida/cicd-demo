@@ -39,4 +39,4 @@ jobs:
           echo "✅ Tests passed!"
           echo "🚀 Deploying commit ${{ github.sha }}"
           echo "👤 Author: ${{ github.actor }}"
-          echo "📦 Deploy complete — app is live"git add .
+          echo "📦 Deploy complete — app is live"

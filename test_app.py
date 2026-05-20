@@ -1,7 +1,7 @@
 from app import add, subtract, multiply, is_even
 
 def test_add():
-    assert add(2, 3) == 5
+    assert add(2, 3) == 99
     assert add(-1, 1) == 0
 
 def test_subtract():
